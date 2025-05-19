@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\sahil\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B0E02CB-0584-4F2A-A77A-D22D03ACEE65}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerceApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:47:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ECommerceApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:46:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "ECommerceApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:44:07.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ECommerceApp\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:42:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ECommerceApp\\Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:37:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "ECommerceApp\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:35:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "ECommerceApp\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:34:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeToolTip": "ECommerceApp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:20.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerceApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceApp\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:20.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\User.cs",
+              "RelativeToolTip": "ECommerceApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:20.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:26:20.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ECommerceApp",
+              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
+              "RelativeDocumentMoniker": "ECommerceApp\\ECommerceApp.csproj",
+              "ToolTip": "C:\\Users\\sahil\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
+              "RelativeToolTip": "ECommerceApp\\ECommerceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T10:26:17.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
